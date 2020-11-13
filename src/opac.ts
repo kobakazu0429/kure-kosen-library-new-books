@@ -4,8 +4,8 @@ const BASE_URL = "https://libopac3-c.nagaokaut.ac.jp";
 
 export interface Book {
   date: string;
-  href: string;
-  titile: string;
+  url: string;
+  title: string;
 }
 
 export class Opac {
@@ -47,18 +47,21 @@ export class Opac {
         // @ts-ignore
         const [a] = body.children;
 
-        const summary = {
+        const summary: Book = {
           date: date.textContent.trim(),
-          href: a.attributes[0].textContent,
+          url: a.attributes[0].textContent,
           title: a.innerHTML,
         };
         return summary;
       });
     });
 
-    return (await Promise.all(summarys)).map((v) => ({
-      ...v,
-      href: `${BASE_URL}${v.href}`,
-    }));
+    return (await Promise.all(summarys)).map(
+      (v) =>
+        ({
+          ...v,
+          url: `${BASE_URL}${v.url}`,
+        } as Book)
+    );
   }
 }

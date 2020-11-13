@@ -1,6 +1,7 @@
 import { detectAddedObejct } from "./diff";
 import { LogRotate } from "./logRotate";
 import { Opac, Book } from "./opac";
+import { feed } from "./twitter";
 
 async function main() {
   const opac = new Opac();
@@ -13,8 +14,12 @@ async function main() {
   const objA = JSON.parse(await LogRotate.read("202011.json"));
   const objB = JSON.parse(await LogRotate.read("202012.json"));
 
-  const diff = detectAddedObejct<Book>(objA, objB);
-  console.log(diff.added);
+  const diffs = detectAddedObejct<Book>(objA, objB).added;
+  console.log(diffs);
+
+  diffs.forEach((diff) => {
+    feed(diff);
+  });
 }
 
 main();
