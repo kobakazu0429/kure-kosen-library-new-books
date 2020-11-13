@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ESNEXT",
+    "module": "commonjs",
+  },
+  "strict": true,
+  "strictNullChecks": true,
+  "noUnusedLocals": true,
+  "noUnusedParameters": true,
+  "moduleResolution": "node",
+  "esModuleInterop": true
+}
