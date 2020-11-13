@@ -2,6 +2,12 @@ import * as playwright from "playwright";
 
 const BASE_URL = "https://libopac3-c.nagaokaut.ac.jp";
 
+export interface Book {
+  date: string;
+  href: string;
+  titile: string;
+}
+
 export class Opac {
   public page: playwright.Page;
   public browser: playwright.Browser;

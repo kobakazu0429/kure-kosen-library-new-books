@@ -9,6 +9,7 @@
     "start": "ts-node src/index.ts"
   },
   "dependencies": {
+    "diff-arrays-of-objects": "^1.1.7",
     "playwright": "^1.6.1"
   },
   "devDependencies": {
