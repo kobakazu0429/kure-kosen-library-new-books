@@ -28,7 +28,7 @@ jobs:
       needs: bot
       runs-on: ubuntu-latest
       env:
-        REPO: https://kobakazu0429:${{github.token}}@github.com/kobakazu0429/dorm_menu_bot-with_github_actions.git
+        REPO: https://kobakazu0429:${{github.token}}@github.com/kobakazu0429/kure-kosen-library-new-books.git
       run: |
         git config --global user.email "someone@sample.com"
         git config --global user.name "github workflow"
