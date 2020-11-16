@@ -2,14 +2,19 @@ import { promises as fs } from "fs";
 import * as path from "path";
 
 export class LogRotate {
-  static async read(Filename: string) {
-    const file = await fs.readFile(path.join(__dirname, "../log", Filename), {
-      encoding: "utf8",
-    });
+  static async read(filename: string): Promise<string> {
+    const file = await fs
+      .readFile(path.join(__dirname, "../log", filename), {
+        encoding: "utf8",
+      })
+      .catch((e) => {
+        console.error(e);
+        return "[]";
+      });
     return file;
   }
 
-  static async write(Filename: string, data: string) {
-    await fs.writeFile(path.join(__dirname, "../log", Filename), data);
+  static async write(filename: string, data: string) {
+    await fs.writeFile(path.join(__dirname, "../log", filename), data);
   }
 }
