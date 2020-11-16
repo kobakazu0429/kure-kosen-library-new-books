@@ -1,0 +1,31 @@
+name: Manual
+
+on: [workflow_dispatch]
+
+jobs:
+  bot:
+    name: bot
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup NodeJs
+        uses: actions/setup-node@v1
+        with:
+          node-version: "13.14.0"
+      - run: yarn install
+      - name: yarn start
+        run: yarn start
+        env:
+          CK: ${{ secrets.CK }}
+          CS: ${{ secrets.CS }}
+          AK: ${{ secrets.AK }}
+          AS: ${{ secrets.AS }}
+      - name: commit
+        env:
+          REPO: https://kobakazu0429:${{github.token}}@github.com/kobakazu0429/kure-kosen-library-new-books.git
+        run: |
+          git config --global user.email "someone@sample.com"
+          git config --global user.name "github workflow"
+          git remote set-url origin ${REPO}
+          git add .
+          git diff --cached --quiet HEAD || git commit -m "save" && git status && git push origin HEAD
