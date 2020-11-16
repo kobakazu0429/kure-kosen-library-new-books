@@ -24,14 +24,14 @@ jobs:
           AK: ${{ secrets.AK }}
           AS: ${{ secrets.AS }}
   commit:
-    - name: git commit
-      needs: bot
-      runs-on: ubuntu-latest
-      env:
-        REPO: https://kobakazu0429:${{github.token}}@github.com/kobakazu0429/kure-kosen-library-new-books.git
-      run: |
-        git config --global user.email "someone@sample.com"
-        git config --global user.name "github workflow"
-        git remote set-url origin ${REPO}
-        git add .
-        git diff --cached --quiet HEAD || git commit -m "save" && git status && git push origin HEAD
+    name: git commit
+    needs: bot
+    runs-on: ubuntu-latest
+    env:
+      REPO: https://kobakazu0429:${{github.token}}@github.com/kobakazu0429/kure-kosen-library-new-books.git
+    run: |
+      git config --global user.email "someone@sample.com"
+      git config --global user.name "github workflow"
+      git remote set-url origin ${REPO}
+      git add .
+      git diff --cached --quiet HEAD || git commit -m "save" && git status && git push origin HEAD
