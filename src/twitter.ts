@@ -23,7 +23,12 @@ function postTwitter(body: string) {
 
 export async function feed({ date, title, url }: Book) {
   try {
-    const body = [`${date}: ${title}`, url].join("\n");
+    const body = [
+      `${date}: ${title}`,
+      url,
+      "",
+      "使い方▶︎https://twitter.com/kure_lib_feed/status/1328374633934974982",
+    ].join("\n");
     const res = await postTwitter(body);
     return res;
   } catch (error) {
