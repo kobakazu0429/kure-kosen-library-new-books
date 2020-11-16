@@ -8,7 +8,6 @@ export class LogRotate {
         encoding: "utf8",
       })
       .catch((e) => {
-        console.error(e);
         return "[]";
       });
     return file;

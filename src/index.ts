@@ -34,8 +34,8 @@ async function main() {
     )
   );
 
-  added.forEach((book) => {
-    feed(book);
+  added.forEach(async (book) => {
+    await feed(book);
   });
 }
 
