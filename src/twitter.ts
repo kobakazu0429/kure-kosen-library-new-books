@@ -22,7 +22,11 @@ function postTwitter(body: string) {
 }
 
 export async function feed({ date, title, url }: Book) {
-  const body = [`${date}: ${title}`, url].join("\n");
-  const res = await postTwitter(body);
-  return res;
+  try {
+    const body = [`${date}: ${title}`, url].join("\n");
+    const res = await postTwitter(body);
+    return res;
+  } catch (error) {
+    console.error(error);
+  }
 }
