@@ -1,50 +1,5 @@
 [
   {
-    "date": "2020.11.10",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014144546&srvce=1",
-    "title": "アメリカ大統領選 / 久保文明, 金成隆一著"
-  },
-  {
-    "date": "2020.11.10",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014144929&srvce=1",
-    "title": "医療倫理超入門 / マイケル・ダン, トニー・ホープ[著] ; 児玉聡, 赤林朗訳"
-  },
-  {
-    "date": "2020.11.10",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014145146&srvce=1",
-    "title": "永平寺"
-  },
-  {
-    "date": "2020.11.10",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014145195&srvce=1",
-    "title": "現代用語の基礎知識 / 自由国民社編 ; 2021年版"
-  },
-  {
-    "date": "2020.11.10",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014144572&srvce=1",
-    "title": "障害者とともに働く / 藤井克徳, 星川安之著"
-  },
-  {
-    "date": "2020.11.10",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014144548&srvce=1",
-    "title": "実践 自分で調べる技術 / 宮内泰介, 上田昌文著"
-  },
-  {
-    "date": "2020.11.10",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1012500280&srvce=1",
-    "title": "東京大空襲 : 60年目の被災地図"
-  },
-  {
-    "date": "2020.11.10",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014144545&srvce=1",
-    "title": "藤原定家 : 『明月記』の世界 / 村井康彦著"
-  },
-  {
-    "date": "2020.11.10",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014144551&srvce=1",
-    "title": "三島由紀夫 : 悲劇への欲動 / 佐藤秀明著"
-  },
-  {
     "date": "2020.11.11",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014101666&srvce=1",
     "title": "PythonとKerasによるディープラーニング / François Chollet著 ; クイープ訳"
@@ -83,5 +38,40 @@
     "date": "2020.11.11",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014143548&srvce=1",
     "title": "問題解決力を鍛える!アルゴリズムとデータ構造 / 大槻兼資著"
+  },
+  {
+    "date": "2020.11.17",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014080566&srvce=1",
+    "title": "Pythonではじめる機械学習 : scikit-learnで学ぶ特徴量エンジニアリングと機械学習の基礎 / アンドレアス・C・ミュラー, サラ・グイド著 ; 中田秀基訳"
+  },
+  {
+    "date": "2020.11.17",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1011617540&srvce=1",
+    "title": "位相入門 : 距離空間と位相空間 / 鈴木晋一著"
+  },
+  {
+    "date": "2020.11.17",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1010176666&srvce=1",
+    "title": "形式言語と有限オートマトン入門 : 例題を中心とした情報の離散数学 / 小倉久和著"
+  },
+  {
+    "date": "2020.11.17",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1012506530&srvce=1",
+    "title": "工学のための関数解析 / 山田功著"
+  },
+  {
+    "date": "2020.11.17",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014145452&srvce=1",
+    "title": "成人式とは何か / 田中治彦著"
+  },
+  {
+    "date": "2020.11.17",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014084628&srvce=1",
+    "title": "セキュリティコンテストのためのCTF問題集 / 清水祐太郎 [ほか] 著"
+  },
+  {
+    "date": "2020.11.17",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014145453&srvce=1",
+    "title": "見えない脳損傷MTBI / 山口研一郎著"
   }
 ]
