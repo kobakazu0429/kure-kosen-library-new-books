@@ -1,45 +1,5 @@
 [
   {
-    "date": "2020.11.11",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014101666&srvce=1",
-    "title": "PythonとKerasによるディープラーニング / François Chollet著 ; クイープ訳"
-  },
-  {
-    "date": "2020.11.11",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014114178&srvce=1",
-    "title": "現場で使えるDjangoの教科書 / 横瀬明仁(akiyoko)著 ; 基礎編"
-  },
-  {
-    "date": "2020.11.11",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1010585270&srvce=1",
-    "title": "これなら分かる最適化数学 : 基礎原理から計算手法まで / 金谷健一著"
-  },
-  {
-    "date": "2020.11.11",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1010016239&srvce=1",
-    "title": "集合への30講 / 志賀浩二著"
-  },
-  {
-    "date": "2020.11.11",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014054523&srvce=1",
-    "title": "世界で一番美しい深宇宙図鑑 : 太陽系から宇宙の果てまで / ホヴァート・スヒリング著 ; 武井摩利訳"
-  },
-  {
-    "date": "2020.11.11",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014142038&srvce=1",
-    "title": "作ろう!CPU : 基礎から理解するコンピューターのしくみ / 上原周著"
-  },
-  {
-    "date": "2020.11.11",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014143657&srvce=1",
-    "title": "ハッブル・レガシー : ハッブル宇宙望遠鏡30年の記録 / ジム・ベル著 ; 堀口容子訳"
-  },
-  {
-    "date": "2020.11.11",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014143548&srvce=1",
-    "title": "問題解決力を鍛える!アルゴリズムとデータ構造 / 大槻兼資著"
-  },
-  {
     "date": "2020.11.17",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014080566&srvce=1",
     "title": "Pythonではじめる機械学習 : scikit-learnで学ぶ特徴量エンジニアリングと機械学習の基礎 / アンドレアス・C・ミュラー, サラ・グイド著 ; 中田秀基訳"
