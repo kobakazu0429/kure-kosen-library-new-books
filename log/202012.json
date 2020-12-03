@@ -61,11 +61,6 @@
   },
   {
     "date": "2020.11.30",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014119582&srvce=1",
-    "title": "入門複素関数= An introduction to complex analysis / 川平友規著"
-  },
-  {
-    "date": "2020.11.30",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014130832&srvce=1",
     "title": "微分方程式リアル入門 : 解法の背景を探る / 高橋秀慈著"
   },
@@ -75,7 +70,7 @@
     "title": "ベクトル解析 / 山本有作, 石原卓共著"
   },
   {
-    "date": "2020.12.02",
+    "date": "2020.11.30",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014119582&srvce=1",
     "title": "入門複素関数= An introduction to complex analysis / 川平友規著"
   },
@@ -118,6 +113,11 @@
     "date": "2020.12.02",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014040832&srvce=1",
     "title": "線型代数学 / 佐武一郎著 ; : 新装版"
+  },
+  {
+    "date": "2020.12.02",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014119582&srvce=1",
+    "title": "入門複素関数= An introduction to complex analysis / 川平友規著"
   },
   {
     "date": "2020.12.02",
@@ -168,5 +168,20 @@
     "date": "2020.12.02",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1011057494&srvce=1",
     "title": "ルベーグ積分論 / 柴田良弘著"
+  },
+  {
+    "date": "2020.12.02",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014146066&srvce=1",
+    "title": "新型コロナ7つの謎 : 最新免疫学からわかった病原体の正体 / 宮坂昌之著"
+  },
+  {
+    "date": "2020.12.02",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014146065&srvce=1",
+    "title": "見えない宇宙の正体 : ダークマターの謎に迫る / 鈴木洋一郎著"
+  },
+  {
+    "date": "2020.12.03",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014146583&srvce=1",
+    "title": "Annual book of ASTM standards 2020 ; :2020 , section 4 ,v.04.01"
   }
 ]
