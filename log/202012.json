@@ -1,110 +1,5 @@
 [
   {
-    "date": "2020.12.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014143244&srvce=1",
-    "title": "AutoCADで3D攻略読本 : AutoCAD 2021対応 / 鳥谷部真著"
-  },
-  {
-    "date": "2020.12.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1010043801&srvce=1",
-    "title": "曲線と曲面の微分幾何 / 小林昭七著"
-  },
-  {
-    "date": "2020.12.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014146066&srvce=1",
-    "title": "新型コロナ7つの謎 : 最新免疫学からわかった病原体の正体 / 宮坂昌之著"
-  },
-  {
-    "date": "2020.12.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014144453&srvce=1",
-    "title": "数学のための英語教本 : 読むことから始めよう / 服部久美子著"
-  },
-  {
-    "date": "2020.12.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014103643&srvce=1",
-    "title": "杉浦光夫ユニタリ表現入門 / 杉浦光夫著 ; 小林俊行解説 ; 佐野茂編"
-  },
-  {
-    "date": "2020.12.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014138330&srvce=1",
-    "title": "線形代数 : 大学教養 / 数研出版編集部編著"
-  },
-  {
-    "date": "2020.12.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014138900&srvce=1",
-    "title": "線型代数入門 / 齋藤正彦著"
-  },
-  {
-    "date": "2020.12.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014026393&srvce=1",
-    "title": "線型代数学 / 齋藤正彦著"
-  },
-  {
-    "date": "2020.12.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014040832&srvce=1",
-    "title": "線型代数学 / 佐武一郎著 ; : 新装版"
-  },
-  {
-    "date": "2020.12.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014119582&srvce=1",
-    "title": "入門複素関数= An introduction to complex analysis / 川平友規著"
-  },
-  {
-    "date": "2020.12.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1010008798&srvce=1",
-    "title": "複素解析 / L.V. アールフォルス著 ; 笠原乾吉訳"
-  },
-  {
-    "date": "2020.12.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1010176113&srvce=1",
-    "title": "複素関数入門 / 神保道夫著"
-  },
-  {
-    "date": "2020.12.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014054008&srvce=1",
-    "title": "複素関数論の基礎 / 山本直樹著"
-  },
-  {
-    "date": "2020.12.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1010080240&srvce=1",
-    "title": "プログラミングのための線形代数 / 平岡和幸, 堀玄共著"
-  },
-  {
-    "date": "2020.12.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014145677&srvce=1",
-    "title": "身の回りを数学で説明する事典 / コリン・ベバリッジ著 ; 大光明宜孝訳"
-  },
-  {
-    "date": "2020.12.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014146065&srvce=1",
-    "title": "見えない宇宙の正体 : ダークマターの謎に迫る / 鈴木洋一郎著"
-  },
-  {
-    "date": "2020.12.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1012295886&srvce=1",
-    "title": "有限群の表現 : 数学の基礎的諸分野への現代的入門 / 永尾汎, 津島行男共著"
-  },
-  {
-    "date": "2020.12.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1010005169&srvce=1",
-    "title": "理系のための線型代数の基礎 / 永田雅宜 [ほか] 著"
-  },
-  {
-    "date": "2020.12.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014112884&srvce=1",
-    "title": "ルベーグ積分入門 / 伊藤清三著 ; : 新装版"
-  },
-  {
-    "date": "2020.12.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1010177268&srvce=1",
-    "title": "ルベーグ積分入門 : 使うための理論と演習 / 吉田伸生著"
-  },
-  {
-    "date": "2020.12.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1011057494&srvce=1",
-    "title": "ルベーグ積分論 / 柴田良弘著"
-  },
-  {
     "date": "2020.12.03",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014146583&srvce=1",
     "title": "Annual book of ASTM standards 2020 ; :2020 , section 4 ,v.04.01"
@@ -142,11 +37,6 @@
   {
     "date": "2020.12.08",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014067520&srvce=1",
-    "title": "公式TOEIC listening &amp; reading問題集 / Educational Testing Service著 ; 5"
-  },
-  {
-    "date": "2020.12.08",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014067520&srvce=1",
     "title": "公式TOEIC listening &amp; reading問題集 / Educational Testing Service著 ; 6"
   },
   {
@@ -158,5 +48,15 @@
     "date": "2020.12.08",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014140586&srvce=1",
     "title": "CHERNOBYL (Blu-ray Disc)"
+  },
+  {
+    "date": "2020.12.09",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014146699&srvce=1",
+    "title": "電柱鳥類学 : スズメはどこに止まってる? / 三上修著"
+  },
+  {
+    "date": "2020.12.09",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014128302&srvce=1",
+    "title": "流浪の月 / 凪良ゆう著"
   }
 ]
