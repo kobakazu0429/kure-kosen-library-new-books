@@ -1,10 +1,5 @@
 [
   {
-    "date": "2020.12.03",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014146583&srvce=1",
-    "title": "Annual book of ASTM standards 2020 ; :2020 , section 4 ,v.04.01"
-  },
-  {
     "date": "2020.12.04",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014146126&srvce=1",
     "title": "SDGs : 危機の時代の羅針盤 / 南博, 稲場雅紀著"
@@ -58,5 +53,165 @@
     "date": "2020.12.09",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014128302&srvce=1",
     "title": "流浪の月 / 凪良ゆう著"
+  },
+  {
+    "date": "2020.12.10",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014092071&srvce=1",
+    "title": "D加群 / 竹内潔著 ; 新井仁之 [ほか] 編"
+  },
+  {
+    "date": "2020.12.10",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1011033618&srvce=1",
+    "title": "D加群と計算数学 / 大阿久俊則著"
+  },
+  {
+    "date": "2020.12.10",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014146195&srvce=1",
+    "title": "Python機械学習プログラミング : 達人データサイエンティストによる理論と実践 / Sebastian Raschka, Vahid Mirjalili著 ; クイープ訳"
+  },
+  {
+    "date": "2020.12.10",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014143523&srvce=1",
+    "title": "PyTorchによる物体検出 / 新納浩幸著"
+  },
+  {
+    "date": "2020.12.10",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1012496846&srvce=1",
+    "title": "アウトプット重視の英語授業 / 伊東治己編著"
+  },
+  {
+    "date": "2020.12.10",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1012714039&srvce=1",
+    "title": "一般力学系と場の幾何学 / 大森英樹著"
+  },
+  {
+    "date": "2020.12.10",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014080996&srvce=1",
+    "title": "ガウスの数論世界をゆく : 正多角形の作図から相互法則・数論幾何へ / 栗原将人著 ; 桂利行 [ほか] 編集"
+  },
+  {
+    "date": "2020.12.10",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014145981&srvce=1",
+    "title": "幾何的モデル理論入門 / 板井昌典著"
+  },
+  {
+    "date": "2020.12.10",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014146417&srvce=1",
+    "title": "建築物の構造関係技術基準解説書 : 2020年版 / 国土交通省住宅局建築指導課, 日本建築行政会議, 日本建築構造技術者協会編集協力 ; 建築行政情報センター, 日本建築防災協会編集"
+  },
+  {
+    "date": "2020.12.10",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014126492&srvce=1",
+    "title": "現代整数論の風景 : 素数からゼータ関数まで / 落合理著"
+  },
+  {
+    "date": "2020.12.10",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1010176470&srvce=1",
+    "title": "現代ベクトル解析の原理と応用 / 新井朝雄著"
+  },
+  {
+    "date": "2020.12.10",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014144029&srvce=1",
+    "title": "ゲーム開発・データ可視化・Web開発 / Eric Matthes著 ; 鈴木たかのり, 安田善一郎訳"
+  },
+  {
+    "date": "2020.12.10",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014131875&srvce=1",
+    "title": "鋼構造許容応力度設計規準 : 2019制定 / 日本建築学会編"
+  },
+  {
+    "date": "2020.12.10",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014077421&srvce=1",
+    "title": "鋼構造塑性設計指針 / 日本建築学会編集"
+  },
+  {
+    "date": "2020.12.10",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014139899&srvce=1",
+    "title": "個数を数える / 大島利雄著 ; 桂利行 [ほか] 編"
+  },
+  {
+    "date": "2020.12.10",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014146888&srvce=1",
+    "title": "コロナで都市は変わるか : 欧米からの報告 / 矢作弘[ほか]著"
+  },
+  {
+    "date": "2020.12.10",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014032095&srvce=1",
+    "title": "ストロガッツ非線形ダイナミクスとカオス : 数学的基礎から物理・生物・化学・工学への応用まで / Steven H. Strogatz [著] ; 田中久陽, 中尾裕也, 千葉逸人訳"
+  },
+  {
+    "date": "2020.12.10",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1012572717&srvce=1",
+    "title": "生物リズムと力学系 / 郡宏, 森田善久著"
+  },
+  {
+    "date": "2020.12.10",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1010041732&srvce=1",
+    "title": "双曲的多様体とクライン群 / 谷口雅彦, 松崎克彦著"
+  },
+  {
+    "date": "2020.12.10",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014095777&srvce=1",
+    "title": "対称群の表現とヤング図形集団の解析学 : 漸近的表現論への序説 / 洞彰人著"
+  },
+  {
+    "date": "2020.12.10",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1012557043&srvce=1",
+    "title": "代数解析概論 / 柏原正樹著"
+  },
+  {
+    "date": "2020.12.10",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1010740185&srvce=1",
+    "title": "楕円関数入門 / 戸田盛和著"
+  },
+  {
+    "date": "2020.12.10",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014140701&srvce=1",
+    "title": "楕円関数論 : 楕円曲線の解析学 / 梅村浩著"
+  },
+  {
+    "date": "2020.12.10",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014127379&srvce=1",
+    "title": "楕円積分と楕円関数 : おとぎの国の歩き方 / 武部尚志著"
+  },
+  {
+    "date": "2020.12.10",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1010517694&srvce=1",
+    "title": "徹底例解ロイヤル英文法 / 綿貫陽改訂・著 ; 宮川幸久 [ほか] 共著"
+  },
+  {
+    "date": "2020.12.10",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014146761&srvce=1",
+    "title": "非可換微分幾何学の基礎 / 前田吉昭, 佐古彰史著"
+  },
+  {
+    "date": "2020.12.10",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014142644&srvce=1",
+    "title": "プログラミングの基礎からエラー処理、テストコードの書き方まで / Eric Matthes著 ; 鈴木たかのり, 安田善一郎訳"
+  },
+  {
+    "date": "2020.12.10",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014020446&srvce=1",
+    "title": "保型形式とユニタリ表現 / 高瀬幸一著"
+  },
+  {
+    "date": "2020.12.10",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014110179&srvce=1",
+    "title": "保型形式特論 / 伊吹山知義著"
+  },
+  {
+    "date": "2020.12.10",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014143548&srvce=1",
+    "title": "問題解決力を鍛える!アルゴリズムとデータ構造 / 大槻兼資著"
+  },
+  {
+    "date": "2020.12.10",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014081169&srvce=1",
+    "title": "力学系入門 : 微分方程式からカオスまで / Morris W. Hirsch, Stephen Smale, Robert L. Devaney著 ; 桐木紳 [ほか] 訳"
+  },
+  {
+    "date": "2020.12.10",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014145736&srvce=1",
+    "title": "論理学への数学的手引き / Herbert B. Enderton [著] ; 嘉田勝訳"
   }
 ]
