@@ -147,7 +147,7 @@
   {
     "date": "2020.12.08",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014129722&srvce=1",
-    "title": "風神雷神 : Juppiter, Aeolus / 原田マハ著 ; 1"
+    "title": "風神雷神 : Juppiter, Aeolus / 原田マハ著 ; 2"
   },
   {
     "date": "2020.12.08",
@@ -167,7 +167,7 @@
   {
     "date": "2020.12.08",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014129722&srvce=1",
-    "title": "風神雷神 : Juppiter, Aeolus / 原田マハ著 ; 2"
+    "title": "風神雷神 : Juppiter, Aeolus / 原田マハ著 ; 1"
   },
   {
     "date": "2020.12.09",
@@ -343,5 +343,20 @@
     "date": "2020.12.10",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014145736&srvce=1",
     "title": "論理学への数学的手引き / Herbert B. Enderton [著] ; 嘉田勝訳"
+  },
+  {
+    "date": "2020.12.14",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014084986&srvce=1",
+    "title": "最新英語論文によく使う表現 / 﨑村耕二著 ; 基本編"
+  },
+  {
+    "date": "2020.12.14",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014084986&srvce=1",
+    "title": "最新英語論文によく使う表現 / 﨑村耕二著 ; 発展編"
+  },
+  {
+    "date": "2020.12.14",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014147077&srvce=1",
+    "title": "特異点入門 / 石井志保子著"
   }
 ]
