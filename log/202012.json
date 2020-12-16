@@ -1,15 +1,5 @@
 [
   {
-    "date": "2020.12.09",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014146699&srvce=1",
-    "title": "電柱鳥類学 : スズメはどこに止まってる? / 三上修著"
-  },
-  {
-    "date": "2020.12.09",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014128302&srvce=1",
-    "title": "流浪の月 / 凪良ゆう著"
-  },
-  {
     "date": "2020.12.10",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014092071&srvce=1",
     "title": "D加群 / 竹内潔著 ; 新井仁之 [ほか] 編"
@@ -176,21 +166,6 @@
   },
   {
     "date": "2020.12.14",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014084986&srvce=1",
-    "title": "最新英語論文によく使う表現 / 﨑村耕二著 ; 発展編"
-  },
-  {
-    "date": "2020.12.14",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014147077&srvce=1",
-    "title": "特異点入門 / 石井志保子著"
-  },
-  {
-    "date": "2020.12.14",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014084986&srvce=1",
-    "title": "最新英語論文によく使う表現 / 﨑村耕二著 ; 基本編"
-  },
-  {
-    "date": "2020.12.14",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014147073&srvce=1",
     "title": "Categories for quantum theory : an introduction / Chris Heunen and Jamie Vicary"
   },
@@ -201,7 +176,32 @@
   },
   {
     "date": "2020.12.14",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014084986&srvce=1",
+    "title": "最新英語論文によく使う表現 / 﨑村耕二著 ; 基本編"
+  },
+  {
+    "date": "2020.12.14",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014050960&srvce=1",
     "title": "情報幾何学の基礎 / 藤原彰夫著"
+  },
+  {
+    "date": "2020.12.14",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014147077&srvce=1",
+    "title": "特異点入門 / 石井志保子著"
+  },
+  {
+    "date": "2020.12.14",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014084986&srvce=1",
+    "title": "最新英語論文によく使う表現 / 﨑村耕二著 ; 発展編"
+  },
+  {
+    "date": "2020.12.16",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014147234&srvce=1",
+    "title": "Combinatorial optimization : theory and algorithms / Bernhard Korte, Jens Vygen"
+  },
+  {
+    "date": "2020.12.16",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1012559996&srvce=1",
+    "title": "Introduction to Lie algebras and representation theory / James E. Humphreys"
   }
 ]
