@@ -11,8 +11,18 @@
   },
   {
     "date": "2020.12.14",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014147025&srvce=1",
+    "title": "あなたの老後を助けるケアマネさんの仕事がわかる本 / 沖藤典子著"
+  },
+  {
+    "date": "2020.12.14",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014084986&srvce=1",
-    "title": "最新英語論文によく使う表現 / 﨑村耕二著 ; 発展編"
+    "title": "最新英語論文によく使う表現 / 﨑村耕二著 ; 基本編"
+  },
+  {
+    "date": "2020.12.14",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014147024&srvce=1",
+    "title": "裁判官だから書けるイマドキの裁判 / 日本裁判官ネットワーク著"
   },
   {
     "date": "2020.12.14",
@@ -26,23 +36,13 @@
   },
   {
     "date": "2020.12.14",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014084986&srvce=1",
-    "title": "最新英語論文によく使う表現 / 﨑村耕二著 ; 基本編"
-  },
-  {
-    "date": "2020.12.14",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014147025&srvce=1",
-    "title": "あなたの老後を助けるケアマネさんの仕事がわかる本 / 沖藤典子著"
-  },
-  {
-    "date": "2020.12.14",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014147024&srvce=1",
-    "title": "裁判官だから書けるイマドキの裁判 / 日本裁判官ネットワーク著"
-  },
-  {
-    "date": "2020.12.14",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014147071&srvce=1",
     "title": "日本統計年鑑 / 総務省統計局編 ; 第70回(令和3年)"
+  },
+  {
+    "date": "2020.12.14",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014084986&srvce=1",
+    "title": "最新英語論文によく使う表現 / 﨑村耕二著 ; 発展編"
   },
   {
     "date": "2020.12.16",
@@ -51,12 +51,12 @@
   },
   {
     "date": "2020.12.16",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1012559996&srvce=1",
-    "title": "Introduction to Lie algebras and representation theory / James E. Humphreys"
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014147232&srvce=1",
+    "title": "Graphs, dioids and semirings : new models and algorithms / Michel Gondran and Michel Minoux ; : [pbk.]"
   },
   {
     "date": "2020.12.16",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014147232&srvce=1",
-    "title": "Graphs, dioids and semirings : new models and algorithms / Michel Gondran and Michel Minoux ; : [pbk.]"
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1012559996&srvce=1",
+    "title": "Introduction to Lie algebras and representation theory / James E. Humphreys"
   }
 ]
