@@ -1,50 +1,5 @@
 [
   {
-    "date": "2020.12.14",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014147073&srvce=1",
-    "title": "Categories for quantum theory : an introduction / Chris Heunen and Jamie Vicary"
-  },
-  {
-    "date": "2020.12.14",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1010127843&srvce=1",
-    "title": "Lectures on Boolean algebras / by Paul R. Halmos"
-  },
-  {
-    "date": "2020.12.14",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014147025&srvce=1",
-    "title": "あなたの老後を助けるケアマネさんの仕事がわかる本 / 沖藤典子著"
-  },
-  {
-    "date": "2020.12.14",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014084986&srvce=1",
-    "title": "最新英語論文によく使う表現 / 﨑村耕二著 ; 基本編"
-  },
-  {
-    "date": "2020.12.14",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014147024&srvce=1",
-    "title": "裁判官だから書けるイマドキの裁判 / 日本裁判官ネットワーク著"
-  },
-  {
-    "date": "2020.12.14",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014050960&srvce=1",
-    "title": "情報幾何学の基礎 / 藤原彰夫著"
-  },
-  {
-    "date": "2020.12.14",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014147077&srvce=1",
-    "title": "特異点入門 / 石井志保子著"
-  },
-  {
-    "date": "2020.12.14",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014147071&srvce=1",
-    "title": "日本統計年鑑 / 総務省統計局編 ; 第70回(令和3年)"
-  },
-  {
-    "date": "2020.12.14",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014084986&srvce=1",
-    "title": "最新英語論文によく使う表現 / 﨑村耕二著 ; 発展編"
-  },
-  {
     "date": "2020.12.16",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014147234&srvce=1",
     "title": "Combinatorial optimization : theory and algorithms / Bernhard Korte, Jens Vygen"
@@ -58,5 +13,40 @@
     "date": "2020.12.16",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1012559996&srvce=1",
     "title": "Introduction to Lie algebras and representation theory / James E. Humphreys"
+  },
+  {
+    "date": "2020.12.21",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1010431989&srvce=1",
+    "title": "Basic category theory / Francis Borceux ; 1"
+  },
+  {
+    "date": "2020.12.21",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014147567&srvce=1",
+    "title": "Basic proof theory / A.S. Troelstra, H. Schwichtenberg ; : pbk"
+  },
+  {
+    "date": "2020.12.21",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1010431987&srvce=1",
+    "title": "Categories and structures / Francis Borceux ; 2"
+  },
+  {
+    "date": "2020.12.21",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1011748862&srvce=1",
+    "title": "Categories of sheaves / Francis Borceux ; 3"
+  },
+  {
+    "date": "2020.12.21",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014147572&srvce=1",
+    "title": "Foundations of stable homotopy theory / David Barnes, Constanze Roitzheim ; : hardback"
+  },
+  {
+    "date": "2020.12.21",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014147568&srvce=1",
+    "title": "An introduction to polynomial and semi-algebraic optimization / Jean Bernard Lasserre"
+  },
+  {
+    "date": "2020.12.21",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1011254444&srvce=1",
+    "title": "Young tableaux : with applications to representation theory and geometry / William Fulton"
   }
 ]
