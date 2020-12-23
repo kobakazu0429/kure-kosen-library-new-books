@@ -1,20 +1,5 @@
 [
   {
-    "date": "2020.12.16",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014147234&srvce=1",
-    "title": "Combinatorial optimization : theory and algorithms / Bernhard Korte, Jens Vygen"
-  },
-  {
-    "date": "2020.12.16",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014147232&srvce=1",
-    "title": "Graphs, dioids and semirings : new models and algorithms / Michel Gondran and Michel Minoux ; : [pbk.]"
-  },
-  {
-    "date": "2020.12.16",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1012559996&srvce=1",
-    "title": "Introduction to Lie algebras and representation theory / James E. Humphreys"
-  },
-  {
     "date": "2020.12.21",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1010431989&srvce=1",
     "title": "Basic category theory / Francis Borceux ; 1"
@@ -138,5 +123,20 @@
     "date": "2020.12.22",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1012500481&srvce=1",
     "title": "流体力学 : シンプルにすれば「流れ」がわかる / 築地徹浩ほか執筆"
+  },
+  {
+    "date": "2020.12.23",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014147626&srvce=1",
+    "title": "科学とはなにか : 新しい科学論、いま必要な三つの視点 / 佐倉統著"
+  },
+  {
+    "date": "2020.12.23",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014147755&srvce=1",
+    "title": "地上最強の男 : 世界ヘビー級チャンピオン列伝 = Biographies of the world heavyweight champions / 百田尚樹著"
+  },
+  {
+    "date": "2020.12.23",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014147622&srvce=1",
+    "title": "脳を司る「脳」 : 最新研究で見えてきた、驚くべき脳のはたらき / 毛内拡著"
   }
 ]
