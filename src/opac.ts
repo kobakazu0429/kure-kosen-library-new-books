@@ -39,12 +39,14 @@ export class Opac {
     await this.page.waitForSelector("#example", { state: "attached" });
 
     const trs = await this.page.$$("tr");
+    if ((await trs[1].textContent()) === "No data available in table") {
+      console.log("Opac.getNewBooks: No data");
+      process.exit();
+    }
 
     const summarys = trs.slice(1).map(async (tr) => {
       return tr.evaluate((node) => {
-        // @ts-ignore
         const [date, body] = node.children;
-        // @ts-ignore
         const [a] = body.children;
 
         const summary: Book = {
