@@ -1,40 +1,5 @@
 [
   {
-    "date": "2021.01.05",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014111095&srvce=1",
-    "title": "Docker/Kubernetes実践コンテナ開発入門 / 山田明憲著"
-  },
-  {
-    "date": "2021.01.05",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014148072&srvce=1",
-    "title": "Windowsネットワーク上級リファレンス : Windows 10/8.1/7完全対応 = Windows network advanced reference / 橋本和則著"
-  },
-  {
-    "date": "2021.01.05",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1010173291&srvce=1",
-    "title": "音・振動のスペクトル解析 / 金井浩著"
-  },
-  {
-    "date": "2021.01.05",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014144490&srvce=1",
-    "title": "ゼロからはじめるMicrosoft Teams : 基本&amp;便利技 / リンクアップ著"
-  },
-  {
-    "date": "2021.01.05",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014143774&srvce=1",
-    "title": "ゼロからはじめるZoom基本&amp;便利技 / マイカ著"
-  },
-  {
-    "date": "2021.01.05",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014115776&srvce=1",
-    "title": "プログラマのための文字コード技術入門 / 矢野啓介著"
-  },
-  {
-    "date": "2021.01.05",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1012180227&srvce=1",
-    "title": "乱れと流れ / 横井喜充 [ほか] 編"
-  },
-  {
     "date": "2021.01.06",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014147956&srvce=1",
     "title": "自分を励ます英語名言101 / 小池直己, 佐藤誠司著"
@@ -46,13 +11,13 @@
   },
   {
     "date": "2021.01.06",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014147813&srvce=1",
-    "title": "デモクラシーの整理法 / 空井護 [著]"
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014148105&srvce=1",
+    "title": "脳の大統一理論 : 自由エネルギー原理とはなにか / 乾敏郎, 阪口豊著"
   },
   {
     "date": "2021.01.06",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014148105&srvce=1",
-    "title": "脳の大統一理論 : 自由エネルギー原理とはなにか / 乾敏郎, 阪口豊著"
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014147813&srvce=1",
+    "title": "デモクラシーの整理法 / 空井護著"
   },
   {
     "date": "2021.01.07",
