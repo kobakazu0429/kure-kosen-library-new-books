@@ -1,20 +1,5 @@
 [
   {
-    "date": "2021.01.07",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014148211&srvce=1",
-    "title": "Graphs, dioids and semirings : new models and algorithms / Michel Gondran and Michel Minoux"
-  },
-  {
-    "date": "2021.01.07",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014148209&srvce=1",
-    "title": "Higher dimensional categories : from double to multiple categories / Marco Grandis"
-  },
-  {
-    "date": "2021.01.07",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014148212&srvce=1",
-    "title": "Simplicial methods for higher categories : Segal-type models of weak n-categories / Simona Paoli"
-  },
-  {
     "date": "2021.01.13",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014074843&srvce=1",
     "title": "Citrix XenDesktop : デスクトップ&amp;アプリケーション仮想化実践ガイド / シトリックス・システムズ・ジャパン株式会社監修"
@@ -28,5 +13,10 @@
     "date": "2021.01.13",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014148434&srvce=1",
     "title": "トヨタの危機管理 : どんな時代でも「黒字化」できる底力 / 野地秩嘉著 = Crisis Management of TOYOTA"
+  },
+  {
+    "date": "2021.01.14",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014148515&srvce=1",
+    "title": "50 Houses from Archive ; 2"
   }
 ]
