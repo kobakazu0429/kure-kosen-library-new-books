@@ -1,20 +1,5 @@
 [
   {
-    "date": "2021.01.15",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1010127969&srvce=1",
-    "title": "Introduction to higher order categorical logic / J. Lambek, P.J. Scott"
-  },
-  {
-    "date": "2021.01.15",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014138385&srvce=1",
-    "title": "数学好きの人のためのブックガイド / 数学セミナー編集部編"
-  },
-  {
-    "date": "2021.01.15",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014148690&srvce=1",
-    "title": "地域を変えるソーシャルワーカー / 朝比奈ミカ, 菊池馨実編"
-  },
-  {
     "date": "2021.01.20",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014128850&srvce=1",
     "title": "3次元回転 : パラメータ計算とリー代数による最適化 / 金谷健一著"
@@ -113,5 +98,10 @@
     "date": "2021.01.21",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014149089&srvce=1",
     "title": "ディープラーニング実装入門 : PyTorchによる画像・自然言語処理 / 吉崎亮介, 祖父江誠人著"
+  },
+  {
+    "date": "2021.01.22",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1013961523&srvce=1",
+    "title": "感動する!微分・積分 / 桜井進著"
   }
 ]
