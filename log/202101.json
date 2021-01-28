@@ -1,35 +1,5 @@
 [
   {
-    "date": "2021.01.21",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014149122&srvce=1",
-    "title": "JavaScriptモダンプログラミング完全ガイド : 堅牢なコードを効率的に開発できる! / Cay S. Horstmann著 ; 吉川邦夫訳"
-  },
-  {
-    "date": "2021.01.21",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014149087&srvce=1",
-    "title": "Kaggleコンペティションチャレンジブック : Pythonによる機械学習例題実戦分析 / Jung Kweon Woo著 ; 金重明訳 ; 巣籠悠輔協力"
-  },
-  {
-    "date": "2021.01.21",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014146108&srvce=1",
-    "title": "Scikit-learn、Keras、TensorFlowによる実践機械学習 / Aurélien Géron著 ; 長尾高弘訳"
-  },
-  {
-    "date": "2021.01.21",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1010044357&srvce=1",
-    "title": "鉄鋼 / 日本規格協会編集 ; 2021/2"
-  },
-  {
-    "date": "2021.01.21",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014147200&srvce=1",
-    "title": "ディープラーニングG (ジェネラリスト) 検定問題集 / 高橋光太郎, 落合達也著"
-  },
-  {
-    "date": "2021.01.21",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014149089&srvce=1",
-    "title": "ディープラーニング実装入門 : PyTorchによる画像・自然言語処理 / 吉崎亮介, 祖父江誠人著"
-  },
-  {
     "date": "2021.01.22",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1013961523&srvce=1",
     "title": "感動する!微分・積分 / 桜井進著"
