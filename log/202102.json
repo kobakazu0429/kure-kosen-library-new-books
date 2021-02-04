@@ -16,6 +16,11 @@
   },
   {
     "date": "2021.02.02",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014149902&srvce=1",
+    "title": "MATLABクイックスタート : 数式処理から機械学習まで / 藤原毅夫著"
+  },
+  {
+    "date": "2021.02.02",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014149376&srvce=1",
     "title": "上杉鷹山 : 「富国安民」の政治 / 小関悠一郎著"
   },
@@ -36,13 +41,18 @@
   },
   {
     "date": "2021.02.02",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014148096&srvce=1",
+    "title": "推し、燃ゆ / 宇佐見りん著"
+  },
+  {
+    "date": "2021.02.02",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014149417&srvce=1",
     "title": "女の子はどう生きるか : 教えて、上野先生! / 上野千鶴子著"
   },
   {
     "date": "2021.02.02",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1010041738&srvce=1",
-    "title": "解析入門 / 杉浦光夫著 ; Ⅱ"
+    "title": "解析入門 / 杉浦光夫著 ; Ⅰ"
   },
   {
     "date": "2021.02.02",
@@ -92,27 +102,7 @@
   {
     "date": "2021.02.02",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1010041738&srvce=1",
-    "title": "解析入門 / 杉浦光夫著 ; Ⅰ"
-  },
-  {
-    "date": "2021.02.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014149902&srvce=1",
-    "title": "MATLABクイックスタート : 数式処理から機械学習まで / 藤原毅夫著"
-  },
-  {
-    "date": "2021.02.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014148096&srvce=1",
-    "title": "推し、燃ゆ / 宇佐見りん著"
-  },
-  {
-    "date": "2021.02.03",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014085013&srvce=1",
-    "title": "数学の世界 / 相馬一彦 [ほか] 著 ; 1"
-  },
-  {
-    "date": "2021.02.03",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014085013&srvce=1",
-    "title": "数学の世界 / 相馬一彦 [ほか] 著 ; 2"
+    "title": "解析入門 / 杉浦光夫著 ; Ⅱ"
   },
   {
     "date": "2021.02.03",
@@ -123,5 +113,15 @@
     "date": "2021.02.03",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014150003&srvce=1",
     "title": "結び目の数学 : 結び目理論への初等的入門 / C.アダムス著 ; 金信泰造訳"
+  },
+  {
+    "date": "2021.02.03",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014085013&srvce=1",
+    "title": "数学の世界 / 相馬一彦 [ほか] 著 ; 1"
+  },
+  {
+    "date": "2021.02.03",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014085013&srvce=1",
+    "title": "数学の世界 / 相馬一彦 [ほか] 著 ; 2"
   }
 ]
