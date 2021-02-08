@@ -1,15 +1,5 @@
 [
   {
-    "date": "2021.02.01",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1012504208&srvce=1",
-    "title": "火を熾す / ジャック・ロンドン著 ; 柴田元幸訳"
-  },
-  {
-    "date": "2021.02.01",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014061006&srvce=1",
-    "title": "保守主義とは何か : 反フランス革命から現代日本まで / 宇野重規著"
-  },
-  {
     "date": "2021.02.02",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014149906&srvce=1",
     "title": "GA HOUSES : 世界の住宅 ; 174"
@@ -52,7 +42,7 @@
   {
     "date": "2021.02.02",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1010041738&srvce=1",
-    "title": "解析入門 / 杉浦光夫著 ; Ⅱ"
+    "title": "解析入門 / 杉浦光夫著 ; Ⅰ"
   },
   {
     "date": "2021.02.02",
@@ -102,12 +92,12 @@
   {
     "date": "2021.02.02",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1010041738&srvce=1",
-    "title": "解析入門 / 杉浦光夫著 ; Ⅰ"
+    "title": "解析入門 / 杉浦光夫著 ; Ⅱ"
   },
   {
     "date": "2021.02.03",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014085013&srvce=1",
-    "title": "数学の世界 / 相馬一彦 [ほか] 著 ; 2"
+    "title": "数学の世界 / 相馬一彦 [ほか] 著 ; 3"
   },
   {
     "date": "2021.02.03",
@@ -122,7 +112,7 @@
   {
     "date": "2021.02.03",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014085013&srvce=1",
-    "title": "数学の世界 / 相馬一彦 [ほか] 著 ; 3"
+    "title": "数学の世界 / 相馬一彦 [ほか] 著 ; 2"
   },
   {
     "date": "2021.02.05",
@@ -163,5 +153,15 @@
     "date": "2021.02.05",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1013960220&srvce=1",
     "title": "シャドーイング・音読と英語習得の科学 : インプットからアウトプットへ / 門田修平著"
+  },
+  {
+    "date": "2021.02.08",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014149076&srvce=1",
+    "title": "心淋し川 (うらさびしがわ) / 西條奈加著"
+  },
+  {
+    "date": "2021.02.08",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014060669&srvce=1",
+    "title": "数学ガイダンス / 数学セミナー編集部編 ; 2018"
   }
 ]
