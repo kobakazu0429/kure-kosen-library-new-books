@@ -1,103 +1,8 @@
 [
   {
-    "date": "2021.02.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014149906&srvce=1",
-    "title": "GA HOUSES : 世界の住宅 ; 174"
-  },
-  {
-    "date": "2021.02.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014149902&srvce=1",
-    "title": "MATLABクイックスタート : 数式処理から機械学習まで / 藤原毅夫著"
-  },
-  {
-    "date": "2021.02.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014149376&srvce=1",
-    "title": "上杉鷹山 : 「富国安民」の政治 / 小関悠一郎著"
-  },
-  {
-    "date": "2021.02.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014149839&srvce=1",
-    "title": "映画音楽からゲームオーディオへ : 映像音響研究の地平 / 尾鼻崇著"
-  },
-  {
-    "date": "2021.02.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014053461&srvce=1",
-    "title": "英文校正会社が教える英語論文のミス100 / エディテージ著 ; 熊沢美穂子訳"
-  },
-  {
-    "date": "2021.02.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014149374&srvce=1",
-    "title": "江戸問答 / 田中優子, 松岡正剛著"
-  },
-  {
-    "date": "2021.02.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014148096&srvce=1",
-    "title": "推し、燃ゆ / 宇佐見りん著"
-  },
-  {
-    "date": "2021.02.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014149417&srvce=1",
-    "title": "女の子はどう生きるか : 教えて、上野先生! / 上野千鶴子著"
-  },
-  {
-    "date": "2021.02.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1010041738&srvce=1",
-    "title": "解析入門 / 杉浦光夫著 ; Ⅰ"
-  },
-  {
-    "date": "2021.02.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1010008795&srvce=1",
-    "title": "解析学序説 / 一松信著 ; 上"
-  },
-  {
-    "date": "2021.02.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1013938852&srvce=1",
-    "title": "解析学序説 / 一松信著 ; 下"
-  },
-  {
-    "date": "2021.02.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014018942&srvce=1",
-    "title": "高分子の科学 : 身近なモノから理解する / 扇澤敏明 [ほか] 著"
-  },
-  {
-    "date": "2021.02.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014041431&srvce=1",
-    "title": "佐藤幹夫の数学 / 佐藤幹夫ほか著 ; 木村達雄編"
-  },
-  {
-    "date": "2021.02.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014149375&srvce=1",
-    "title": "地域衰退 / 宮﨑雅人著"
-  },
-  {
-    "date": "2021.02.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1012544375&srvce=1",
-    "title": "定本解析概論 / 高木貞治著"
-  },
-  {
-    "date": "2021.02.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014149406&srvce=1",
-    "title": "陶淵明 / 陶淵明 [原著] ; 釜谷武志著"
-  },
-  {
-    "date": "2021.02.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014149377&srvce=1",
-    "title": "倒産法入門 : 再生への扉 / 伊藤眞著"
-  },
-  {
-    "date": "2021.02.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1013943130&srvce=1",
-    "title": "理科系のための英語論文表現文例集 : ヘルプ・シートでかならず見つかる / 藤野輝雄著"
-  },
-  {
-    "date": "2021.02.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1010041738&srvce=1",
-    "title": "解析入門 / 杉浦光夫著 ; Ⅱ"
-  },
-  {
     "date": "2021.02.03",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014085013&srvce=1",
-    "title": "数学の世界 / 相馬一彦 [ほか] 著 ; 3"
+    "title": "数学の世界 / 相馬一彦 [ほか] 著 ; 2"
   },
   {
     "date": "2021.02.03",
@@ -112,7 +17,7 @@
   {
     "date": "2021.02.03",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014085013&srvce=1",
-    "title": "数学の世界 / 相馬一彦 [ほか] 著 ; 2"
+    "title": "数学の世界 / 相馬一彦 [ほか] 著 ; 3"
   },
   {
     "date": "2021.02.05",
@@ -163,5 +68,40 @@
     "date": "2021.02.08",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014060669&srvce=1",
     "title": "数学ガイダンス / 数学セミナー編集部編 ; 2018"
+  },
+  {
+    "date": "2021.02.09",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014074567&srvce=1",
+    "title": "TOEIC L&amp;Rテスト究極のゼミ / 西嶋愉一, ヒロ前田共著 ; Part3&amp;4"
+  },
+  {
+    "date": "2021.02.09",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014150060&srvce=1",
+    "title": "あなたはこうしてウソをつく / 阿部修士著"
+  },
+  {
+    "date": "2021.02.09",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1013952358&srvce=1",
+    "title": "これならわかる工学部で学ぶ数学 / 千葉逸人著 ; : 新装版"
+  },
+  {
+    "date": "2021.02.09",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1010270323&srvce=1",
+    "title": "微分方程式要論 / 田代嘉宏著"
+  },
+  {
+    "date": "2021.02.09",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1010043469&srvce=1",
+    "title": "物理の数学 / 薩摩順吉著"
+  },
+  {
+    "date": "2021.02.09",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014145902&srvce=1",
+    "title": "編入数学徹底研究 : 頻出問題と過去問題の演習 / 桜井基晴著"
+  },
+  {
+    "date": "2021.02.09",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1010538072&srvce=1",
+    "title": "細野真宏の確率が本当によくわかる本 : 数I・A / 細野真宏著"
   }
 ]
