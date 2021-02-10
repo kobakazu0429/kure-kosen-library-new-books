@@ -1,25 +1,5 @@
 [
   {
-    "date": "2021.02.03",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014085013&srvce=1",
-    "title": "数学の世界 / 相馬一彦 [ほか] 著 ; 2"
-  },
-  {
-    "date": "2021.02.03",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014150003&srvce=1",
-    "title": "結び目の数学 : 結び目理論への初等的入門 / C.アダムス著 ; 金信泰造訳"
-  },
-  {
-    "date": "2021.02.03",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014085013&srvce=1",
-    "title": "数学の世界 / 相馬一彦 [ほか] 著 ; 1"
-  },
-  {
-    "date": "2021.02.03",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014085013&srvce=1",
-    "title": "数学の世界 / 相馬一彦 [ほか] 著 ; 3"
-  },
-  {
     "date": "2021.02.05",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014136949&srvce=1",
     "title": "TOEIC L&amp;Rテスト究極の模試600問+ / ヒロ前田著"
@@ -103,5 +83,10 @@
     "date": "2021.02.09",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1010538072&srvce=1",
     "title": "細野真宏の確率が本当によくわかる本 : 数I・A / 細野真宏著"
+  },
+  {
+    "date": "2021.02.10",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014150481&srvce=1",
+    "title": "A guide to the literature on semirings and their applications in mathematics and information sciences : with complete bibliography / by Kazimierz Głazek"
   }
 ]
