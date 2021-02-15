@@ -1,15 +1,5 @@
 [
   {
-    "date": "2021.02.08",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014149076&srvce=1",
-    "title": "心淋し川 (うらさびしがわ) / 西條奈加著"
-  },
-  {
-    "date": "2021.02.08",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014060669&srvce=1",
-    "title": "数学ガイダンス / 数学セミナー編集部編 ; 2018"
-  },
-  {
     "date": "2021.02.09",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014074567&srvce=1",
     "title": "TOEIC L&amp;Rテスト究極のゼミ / 西嶋愉一, ヒロ前田共著 ; Part3&amp;4"
@@ -53,5 +43,10 @@
     "date": "2021.02.12",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014139261&srvce=1",
     "title": "乱流の科学 : 構造と制御 / 日野幹雄著"
+  },
+  {
+    "date": "2021.02.15",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014150775&srvce=1",
+    "title": "Gesture in medieval drama and art / edited by Clifford Davidson"
   }
 ]
