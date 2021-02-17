@@ -1,10 +1,5 @@
 [
   {
-    "date": "2021.02.10",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014150481&srvce=1",
-    "title": "A guide to the literature on semirings and their applications in mathematics and information sciences : with complete bibliography / by Kazimierz Głazek"
-  },
-  {
     "date": "2021.02.12",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014139261&srvce=1",
     "title": "乱流の科学 : 構造と制御 / 日野幹雄著"
@@ -13,5 +8,20 @@
     "date": "2021.02.15",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014150775&srvce=1",
     "title": "Gesture in medieval drama and art / edited by Clifford Davidson"
+  },
+  {
+    "date": "2021.02.17",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014150957&srvce=1",
+    "title": "Data science for mathematicians / edited by Nathan Carter ; hbk."
+  },
+  {
+    "date": "2021.02.17",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014150772&srvce=1",
+    "title": "死刑廃止を考える / 菊田幸一著"
+  },
+  {
+    "date": "2021.02.17",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014150773&srvce=1",
+    "title": "震災復興10年の総点検 : 「創造的復興」に向けて / 五十嵐敬喜, 加藤裕則, 渡辺勝道著"
   }
 ]
