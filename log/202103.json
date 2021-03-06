@@ -6,6 +6,11 @@
   },
   {
     "date": "2021.03.04",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014151450&srvce=1",
+    "title": "SDGs時代の国際協力 : アジアで共に学校をつくる / 西村幹子, 小野道子, 井上儀子著"
+  },
+  {
+    "date": "2021.03.04",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014151875&srvce=1",
     "title": "トロイア滅亡史 / グイド・デッレ・コロンネ著 ; 岡三郎訳・解説"
   },
@@ -17,22 +22,7 @@
   {
     "date": "2021.03.04",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1012670348&srvce=1",
-    "title": "広島県史 / 広島県編 ; 別編 2:索引"
-  },
-  {
-    "date": "2021.03.04",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014151873&srvce=1",
-    "title": "フィローストラト / ジョヴァンニ・ボッカッチョ著 ; 岡三郎訳・解説"
-  },
-  {
-    "date": "2021.03.04",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1012670348&srvce=1",
     "title": "広島県史 / 広島県編 ; 近世資料編 3"
-  },
-  {
-    "date": "2021.03.04",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014151450&srvce=1",
-    "title": "SDGs時代の国際協力 : アジアで共に学校をつくる / 西村幹子, 小野道子, 井上儀子著"
   },
   {
     "date": "2021.03.04",
@@ -41,7 +31,17 @@
   },
   {
     "date": "2021.03.04",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014151873&srvce=1",
+    "title": "フィローストラト / ジョヴァンニ・ボッカッチョ著 ; 岡三郎訳・解説"
+  },
+  {
+    "date": "2021.03.04",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014151449&srvce=1",
     "title": "平安男子の元気な!生活 / 川村裕子著"
+  },
+  {
+    "date": "2021.03.04",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1012670348&srvce=1",
+    "title": "広島県史 / 広島県編 ; 別編 2:索引"
   }
 ]
