@@ -1,10 +1,5 @@
 [
   {
-    "date": "2021.03.01",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014151591&srvce=1",
-    "title": "The Canterbury tales : the knight's tale / Geoffrey Chaucer ; with modern English translation, phonetic transcription and annotation by Tomonori Matsushita"
-  },
-  {
     "date": "2021.03.04",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014151450&srvce=1",
     "title": "SDGs時代の国際協力 : アジアで共に学校をつくる / 西村幹子, 小野道子, 井上儀子著"
@@ -22,7 +17,7 @@
   {
     "date": "2021.03.04",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1012670348&srvce=1",
-    "title": "広島県史 / 広島県編 ; 別編 2:索引"
+    "title": "広島県史 / 広島県編 ; 近世資料編 3"
   },
   {
     "date": "2021.03.04",
@@ -42,6 +37,16 @@
   {
     "date": "2021.03.04",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1012670348&srvce=1",
-    "title": "広島県史 / 広島県編 ; 近世資料編 3"
+    "title": "広島県史 / 広島県編 ; 別編 2:索引"
+  },
+  {
+    "date": "2021.03.08",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1010440301&srvce=1",
+    "title": "デラックス世界地図帳 / 谷治正孝 [ほか] 編集・執筆"
+  },
+  {
+    "date": "2021.03.08",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1010541141&srvce=1",
+    "title": "日本分県地図地名総覧 / 人文社編集部編集 ; 2006年版"
   }
 ]
