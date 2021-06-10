@@ -1,20 +1,5 @@
 [
   {
-    "date": "2021.06.03",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014155597&srvce=1",
-    "title": "GA houses : 世界の住宅 ; 176"
-  },
-  {
-    "date": "2021.06.03",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014155326&srvce=1",
-    "title": "日本経済図説 / 宮崎勇, 本庄真, 田谷禎三著"
-  },
-  {
-    "date": "2021.06.03",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014155310&srvce=1",
-    "title": "深掘り!中学数学 : 教科書に書かれていない数学の話 / 坂間千秋著"
-  },
-  {
     "date": "2021.06.04",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014155659&srvce=1",
     "title": "PyTorchとfastaiではじめるディープラーニング : エンジニアのためのAIアプリケーション開発 / Jeremy Howard著 ; Sylvain Gugger著 ; 中田秀基訳"
@@ -43,5 +28,25 @@
     "date": "2021.06.04",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1010519219&srvce=1",
     "title": "必携シーケンス制御プログラム定石集 : 機構図付き / 熊谷英樹著"
+  },
+  {
+    "date": "2021.06.09",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014155836&srvce=1",
+    "title": "昨日がなければ明日もない / 宮部みゆき著"
+  },
+  {
+    "date": "2021.06.09",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014128867&srvce=1",
+    "title": "詳解確率ロボティクス : Pythonによる基礎アルゴリズムの実装 / 上田隆一著"
+  },
+  {
+    "date": "2021.06.09",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014155707&srvce=1",
+    "title": "日本国勢図会 / 矢野恒太記念会編 ; 2021/22年版"
+  },
+  {
+    "date": "2021.06.09",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014154077&srvce=1",
+    "title": "白鳥とコウモリ / 東野圭吾著"
   }
 ]
