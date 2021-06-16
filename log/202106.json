@@ -1,25 +1,5 @@
 [
   {
-    "date": "2021.06.09",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014155836&srvce=1",
-    "title": "昨日がなければ明日もない / 宮部みゆき著"
-  },
-  {
-    "date": "2021.06.09",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014128867&srvce=1",
-    "title": "詳解確率ロボティクス : Pythonによる基礎アルゴリズムの実装 / 上田隆一著"
-  },
-  {
-    "date": "2021.06.09",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014155707&srvce=1",
-    "title": "日本国勢図会 / 矢野恒太記念会編 ; 2021/22年版"
-  },
-  {
-    "date": "2021.06.09",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014154077&srvce=1",
-    "title": "白鳥とコウモリ / 東野圭吾著"
-  },
-  {
     "date": "2021.06.14",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014132172&srvce=1",
     "title": "カレンダー・ガール / 新井素子著"
@@ -73,5 +53,15 @@
     "date": "2021.06.15",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1010000275&srvce=1",
     "title": "流体力学 / 巽友正著"
+  },
+  {
+    "date": "2021.06.15",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014148095&srvce=1",
+    "title": "自転しながら公転する / 山本文緒著"
+  },
+  {
+    "date": "2021.06.16",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1012206112&srvce=1",
+    "title": "集合住宅をユニットから考える / 渡辺真理, 木下庸子著"
   }
 ]
