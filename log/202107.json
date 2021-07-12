@@ -1,57 +1,22 @@
 [
   {
-    "date": "2021.07.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014155849&srvce=1",
-    "title": "ITと数学 : 機械学習の基礎知識をトレーニング / 中井悦司 [ほか] 著"
+    "date": "2021.07.12",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014150259&srvce=1",
+    "title": "PyTorch実践入門 : ディープラーニングの基礎から実装へ / Eli Stevens, Luca Antiga, Thomas Viehmann著 ; 電通国際情報サービス [ほか] 訳"
   },
   {
-    "date": "2021.07.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014066026&srvce=1",
-    "title": "Pythonで学ぶディープラーニングの理論と実装 / 斎藤康毅著"
+    "date": "2021.07.12",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014154668&srvce=1",
+    "title": "機械学習による実用アプリケーション構築 : 事例を通じて学ぶ、設計から本番稼働までのプロセス / Emmanuel Ameisen著 ; 菊池彰訳"
   },
   {
-    "date": "2021.07.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014067707&srvce=1",
-    "title": "SPSSによるロジスティック回帰分析 / 内田治著"
+    "date": "2021.07.12",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014156973&srvce=1",
+    "title": "軽量Alpine LinuxによるDockerコンテナ構築術 = Creating your own container with Alpine Linux / 中島能和著"
   },
   {
-    "date": "2021.07.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014156291&srvce=1",
-    "title": "教養としてのデータサイエンス / 北川源四郎, 竹村彰通編 ; 内田誠一 [ほか] 著"
-  },
-  {
-    "date": "2021.07.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014156661&srvce=1",
-    "title": "これからはじめるワークショップ / 堀公俊著"
-  },
-  {
-    "date": "2021.07.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014104993&srvce=1",
-    "title": "自然言語処理編 / 斎藤康毅著"
-  },
-  {
-    "date": "2021.07.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014146802&srvce=1",
-    "title": "定本M-GTA : 実践の理論化をめざす質的研究方法論 / 木下康仁著"
-  },
-  {
-    "date": "2021.07.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014155912&srvce=1",
-    "title": "バリューサイクル・マネジメント : 新しい時代へアップデートし続ける仕組みの作り方 / 沢渡あまね著"
-  },
-  {
-    "date": "2021.07.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014138147&srvce=1",
-    "title": "フレームワーク編 / 斎藤康毅著"
-  },
-  {
-    "date": "2021.07.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014156669&srvce=1",
-    "title": "ユーザー中心組織論 : あなたからはじめる心を動かすモノづくり / 金子剛, 並木光太郎著"
-  },
-  {
-    "date": "2021.07.02",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1012187671&srvce=1",
-    "title": "ワークショップ・デザイン : 知をつむぐ対話の場づくり / 堀公俊, 加藤彰著"
+    "date": "2021.07.12",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014154714&srvce=1",
+    "title": "仕事ではじめる機械学習 / 有賀康顕, 中山心太, 西林孝著"
   }
 ]
