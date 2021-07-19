@@ -1,25 +1,5 @@
 [
   {
-    "date": "2021.07.12",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014150259&srvce=1",
-    "title": "PyTorch実践入門 : ディープラーニングの基礎から実装へ / Eli Stevens, Luca Antiga, Thomas Viehmann著 ; 電通国際情報サービス [ほか] 訳"
-  },
-  {
-    "date": "2021.07.12",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014154668&srvce=1",
-    "title": "機械学習による実用アプリケーション構築 : 事例を通じて学ぶ、設計から本番稼働までのプロセス / Emmanuel Ameisen著 ; 菊池彰訳"
-  },
-  {
-    "date": "2021.07.12",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014156973&srvce=1",
-    "title": "軽量Alpine LinuxによるDockerコンテナ構築術 = Creating your own container with Alpine Linux / 中島能和著"
-  },
-  {
-    "date": "2021.07.12",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014154714&srvce=1",
-    "title": "仕事ではじめる機械学習 / 有賀康顕, 中山心太, 西林孝著"
-  },
-  {
     "date": "2021.07.13",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014069535&srvce=1",
     "title": "Schubert多項式とその仲間たち / 前野俊昭著"
