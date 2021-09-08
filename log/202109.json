@@ -1,10 +1,5 @@
 [
   {
-    "date": "2021.09.01",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1010043637&srvce=1",
-    "title": "岩波講座応用数学 / 甘利俊一 [ほか] 編集 ; 総目次・総索引"
-  },
-  {
     "date": "2021.09.07",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014143150&srvce=1",
     "title": "1から始めるJuliaプログラミング / 進藤裕之, 佐藤建太共著"
@@ -58,5 +53,15 @@
     "date": "2021.09.07",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014159518&srvce=1",
     "title": "和声論 : 自然の諸原理に還元された / J.‐Ph.ラモー著 ; 伊藤友計訳"
+  },
+  {
+    "date": "2021.09.08",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014159566&srvce=1",
+    "title": "詳解ビットコイン : ゼロから設計する過程で学ぶデジタル通貨システム / Kalle Rosenbaum著 ; 長尾高弘訳"
+  },
+  {
+    "date": "2021.09.08",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014159567&srvce=1",
+    "title": "詳説データベース : ストレージエンジンと分散データシステムの仕組み / Alex Petrov著 ; 成田昇司訳"
   }
 ]
