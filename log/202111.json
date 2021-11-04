@@ -1,20 +1,5 @@
 [
   {
-    "date": "2021.10.28",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014161806&srvce=1",
-    "title": "うんち学入門 : 生き物にとって「排泄物」とは何か / 増田隆一著"
-  },
-  {
-    "date": "2021.10.28",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014161807&srvce=1",
-    "title": "呼吸の科学 : いのちを支える驚きのメカニズム / 石田浩司著"
-  },
-  {
-    "date": "2021.10.28",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014161805&srvce=1",
-    "title": "早すぎた男南部陽一郎物語 : 時代は彼に追いついたか / 中嶋彰著"
-  },
-  {
     "date": "2021.10.29",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014161986&srvce=1",
     "title": "TAKE NOTES! : メモで、あなただけのアウトプットが自然にできるようになる / ズンク・アーレンス著 ; 二木夢子訳"
@@ -63,5 +48,10 @@
     "date": "2021.10.29",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014125726&srvce=1",
     "title": "ベイズ深層学習 = Bayesian deep learning / 須山敦志著"
+  },
+  {
+    "date": "2021.11.04",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1012297202&srvce=1",
+    "title": "ひよわな花・日本 : 分析と警告 / ズビグネフ・ブレジンスキー著 ; 大朏人一訳"
   }
 ]
