@@ -1,10 +1,5 @@
 [
   {
-    "date": "2021.11.10",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1012555944&srvce=1",
-    "title": "三島由紀夫事典 / 松本徹, 佐藤秀明, 井上隆史編"
-  },
-  {
     "date": "2021.11.15",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1010171012&srvce=1",
     "title": "Representation theory : proceedings of the Workshop on the Present Trends in Representation Theory, Ottawa, Carleton University, August 13-18, 1979 / edited by V. Dlab and P. Gabriel ; V.1 New York"
@@ -48,5 +43,40 @@
     "date": "2021.11.15",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014162421&srvce=1",
     "title": "量子力学10講 / 谷村省吾著"
+  },
+  {
+    "date": "2021.11.17",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014138030&srvce=1",
+    "title": "5G : 次世代移動通信規格の可能性 / 森川博之著"
+  },
+  {
+    "date": "2021.11.17",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014099881&srvce=1",
+    "title": "C言語によるPICプログラミング大全 / 後閑哲也著"
+  },
+  {
+    "date": "2021.11.17",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014147231&srvce=1",
+    "title": "天文年鑑 / 天文年鑑編集委員会編 ; 2021年版"
+  },
+  {
+    "date": "2021.11.17",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014162927&srvce=1",
+    "title": "データ・ドリブン・エコノミー : デジタルがすべての企業・産業・社会を変革する / 森川博之著"
+  },
+  {
+    "date": "2021.11.17",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014155572&srvce=1",
+    "title": "なるほどグリーン関数 / 村上雅人著"
+  },
+  {
+    "date": "2021.11.17",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014162929&srvce=1",
+    "title": "パス幾何学 : ランダムウォークによる逆正弦則の数理 / 今野紀雄著"
+  },
+  {
+    "date": "2021.11.17",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014146789&srvce=1",
+    "title": "理科年表 = Chronological scientific tables / 国立天文台編 ; 第94冊(令和3年)"
   }
 ]
