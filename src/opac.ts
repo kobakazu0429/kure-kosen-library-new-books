@@ -27,13 +27,6 @@ export class Opac {
     console.log("Opac.close: closed");
   }
 
-  private async gotoNewBooksPage() {
-    const url = `${BASE_URL}/opac/newbook/?lang=0&reqCode=list&dptidpl=1&jfcd=&sort=NDC&cls=all&clskey=20&name=%E3%81%99%E3%81%B9%E3%81%A6&tgt=new#`;
-    await this.page.goto(url);
-
-    console.log("Opac.gotoNewBooksPage: moved");
-  }
-
   public async getNewBooks() {
     await this.gotoNewBooksPage();
     await this.page.waitForSelector("#example", { state: "attached" });
@@ -65,5 +58,12 @@ export class Opac {
           url: `${BASE_URL}${v.url}`,
         } as Book)
     );
+  }
+
+  private async gotoNewBooksPage() {
+    const url = `${BASE_URL}/opac/newbook/?lang=0&reqCode=list&dptidpl=1&jfcd=&sort=NDC&cls=all&clskey=20&name=%E3%81%99%E3%81%B9%E3%81%A6&tgt=new#`;
+    await this.page.goto(url);
+
+    console.log("Opac.gotoNewBooksPage: moved");
   }
 }

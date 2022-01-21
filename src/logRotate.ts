@@ -7,7 +7,7 @@ export class LogRotate {
       .readFile(path.join(__dirname, "../log", filename), {
         encoding: "utf8",
       })
-      .catch((e) => {
+      .catch((_e) => {
         return "[]";
       });
     return file;
