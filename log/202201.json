@@ -1,45 +1,5 @@
 [
   {
-    "date": "2022.01.24",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014166881&srvce=1",
-    "title": "新しい時代の教育方法 / 田中耕治 [ほか] 著"
-  },
-  {
-    "date": "2022.01.24",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014139121&srvce=1",
-    "title": "応用がみえる線形代数 / 高松瑞代著"
-  },
-  {
-    "date": "2022.01.24",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014166866&srvce=1",
-    "title": "記憶の切繪図 : 七十五年の回想 / 志村五郎著"
-  },
-  {
-    "date": "2022.01.24",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014162698&srvce=1",
-    "title": "曲率とトポロジー : 曲面の幾何から宇宙のかたちへ / 河野俊丈著 = Curvature and topology : from geometry of surfaces to the shape of space / Kohno Toshitake"
-  },
-  {
-    "date": "2022.01.24",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1013987889&srvce=1",
-    "title": "計算で身につくトポロジー / 阿原一志著"
-  },
-  {
-    "date": "2022.01.24",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014166884&srvce=1",
-    "title": "子どもたちの三つの「危機」 : 国際比較から見る日本の模索 / 恒吉僚子著"
-  },
-  {
-    "date": "2022.01.24",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014166873&srvce=1",
-    "title": "Python (パイソン) 3年生機械学習のしくみ : 体験してわかる!会話でまなべる! / 森巧尚著"
-  },
-  {
-    "date": "2022.01.24",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1013970562&srvce=1",
-    "title": "学びの心理学 : 授業をデザインする / 秋田喜代美著"
-  },
-  {
     "date": "2022.01.28",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014021236&srvce=1",
     "title": "英語で楽しむ赤毛のアン / L.M.モンゴメリ英文 ; 松本侑子対訳・解説・写真"
@@ -48,5 +8,20 @@
     "date": "2022.01.28",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1013948749&srvce=1",
     "title": "星の王子さま = The little prince / サン=テグジュペリ著 ; 井上久美解説・監修"
+  },
+  {
+    "date": "2022.01.28",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1013968125&srvce=1",
+    "title": "死ぬ瞬間の5つの後悔 / ブロニー・ウェア著 ; 仁木めぐみ訳"
+  },
+  {
+    "date": "2022.01.28",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1013981136&srvce=1",
+    "title": "スタンフォード大学で一番人気の経済学入門 / ティモシー・テイラー著 ; 高橋璃子訳"
+  },
+  {
+    "date": "2022.01.28",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014167055&srvce=1",
+    "title": "僕とアリスの夏物語 : 人工知能の、その先へ / 谷口忠大著"
   }
 ]
