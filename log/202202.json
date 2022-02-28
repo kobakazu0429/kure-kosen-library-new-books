@@ -1,15 +1,5 @@
 [
   {
-    "date": "2022.02.21",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014168744&srvce=1",
-    "title": "文学理論入門 : 論理と国語と文学と / 疋田雅昭著"
-  },
-  {
-    "date": "2022.02.21",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014168855&srvce=1",
-    "title": "読まなければなにもはじまらない : いまから古典を「読む」ために / 木越治, 丸井貴史編"
-  },
-  {
     "date": "2022.02.25",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014164994&srvce=1",
     "title": "アダム・スミスの夕食を作ったのは誰か? : これからの経済と女性の話 / カトリーン・マルサル著 ; 高橋璃子訳"
@@ -18,5 +8,20 @@
     "date": "2022.02.25",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014169118&srvce=1",
     "title": "親鸞と道元 / 平岡聡著"
+  },
+  {
+    "date": "2022.02.25",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014168918&srvce=1",
+    "title": "宇宙を支配する「定数」 : 万有引力定数から光速、プランク定数まで / 臼田孝著"
+  },
+  {
+    "date": "2022.02.25",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014168917&srvce=1",
+    "title": "思考実験 : 科学が生まれるとき / 榛葉豊著"
+  },
+  {
+    "date": "2022.02.25",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014168916&srvce=1",
+    "title": "数式図鑑 : 楽しく、美しく、役に立つ科学の宝石箱 / 横山明日希著"
   }
 ]
