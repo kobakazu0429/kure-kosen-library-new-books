@@ -22,7 +22,7 @@
     "@types/twitter": "1.7.1",
     "eslint": "8.11.0",
     "ts-node": "10.7.0",
-    "tsconfig-paths": "3.14.0",
-    "typescript": "4.6.2"
+    "tsconfig-paths": "3.14.1",
+    "typescript": "4.6.3"
   }
 }
