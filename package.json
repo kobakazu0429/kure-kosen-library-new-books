@@ -18,7 +18,7 @@
   },
   "devDependencies": {
     "@kobakazu0429/eslint-config-typescript": "3.1.0",
-    "@types/node": "16.11.26",
+    "@types/node": "16.11.27",
     "@types/twitter": "1.7.1",
     "eslint": "8.11.0",
     "ts-node": "10.7.0",
