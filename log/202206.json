@@ -1,10 +1,5 @@
 [
   {
-    "date": "2022.06.20",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014172897&srvce=1",
-    "title": "動かして学ぶAI・機械学習の基礎 : TensorFlowによるコンピュータビジョン、自然言語処理、時系列データの予測とデプロイ / Laurence Moroney著 ; 菊池彰訳"
-  },
-  {
     "date": "2022.06.22",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014170325&srvce=1",
     "title": "動かして学ぶ!はじめてのテキストマイニング : フリー・ソフトウェアを用いた自由記述の計量テキスト分析 / 樋口耕一, 中村康則, 周景龍著"
@@ -38,5 +33,10 @@
     "date": "2022.06.22",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014173135&srvce=1",
     "title": "地球温暖化はなぜ起こるのか : 気候モデルで探る過去・現在・未来の地球 / 真鍋淑郎, アンソニー・J・ブロッコリー著 ; 宮本寿代訳"
+  },
+  {
+    "date": "2022.06.27",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014130598&srvce=1",
+    "title": "微分積分 : 大学教養 / 数研出版編集部編著"
   }
 ]
