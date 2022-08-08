@@ -1,10 +1,5 @@
 [
   {
-    "date": "2022.08.01",
-    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014174951&srvce=1",
-    "title": "50歳からの科学的「筋肉トレーニング」 : 若いときとは違う体をどう鍛えるか / フィンク・ジュリウス著"
-  },
-  {
     "date": "2022.08.02",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014174786&srvce=1",
     "title": "応援消費 : 社会を動かす力 / 水越康介著"
@@ -33,5 +28,10 @@
     "date": "2022.08.03",
     "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014175295&srvce=1",
     "title": "GA houses : 世界の住宅 ; 183"
+  },
+  {
+    "date": "2022.08.08",
+    "url": "https://libopac3-c.nagaokaut.ac.jp/opac/opac_details/?lang=0&amode=11&bibid=1014175528&srvce=1",
+    "title": "VRChatガイドブック : ゼロからはじめるメタバース / 岩佐琢磨著 ; まつゆう*著 = VRChat Guide Book:Welcome to the world of VRChat"
   }
 ]
