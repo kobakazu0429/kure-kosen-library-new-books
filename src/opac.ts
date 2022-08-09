@@ -27,6 +27,13 @@ export class Opac {
     console.log("Opac.close: closed");
   }
 
+  public async getIsbn(url: string): Promise<string> {
+    await this.page.goto(url);
+    const isbn =
+      (await this.page.$("td.BBISBN").then((el) => el?.textContent())) ?? "";
+    return isbn;
+  }
+
   public async getNewBooks() {
     await this.gotoNewBooksPage();
     await this.page.waitForSelector("#example", { state: "attached" });
