@@ -7,6 +7,7 @@
   "license": "MIT",
   "scripts": {
     "start": "ts-node src/index.ts",
+    "tweet": "ts-node src/tweet.ts",
     "lint": "npm run lint:eslint && npm run lint:prettier",
     "lint:eslint": "eslint \"./{src,test}/**/*.{js,ts,tsx,svelte}\" --fix",
     "lint:prettier": "prettier \"./{src,test}/**/*.{js,ts,tsx,svelte}\" --write"

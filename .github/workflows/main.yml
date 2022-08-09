@@ -2,8 +2,8 @@ name: Main
 
 on:
   schedule:
-    #  8 o'clock every day, but UTC.
-    - cron: "0 23 * * *"
+    #  9:00 in JST
+    - cron: "0 0 * * *"
 
 jobs:
   bot:
@@ -14,22 +14,14 @@ jobs:
       - name: Setup NodeJs
         uses: actions/setup-node@v3
         with:
-          node-version: 16
+          node-version: 18
           cache: yarn
       - run: yarn install
       - name: yarn start
         run: yarn start
-        env:
-          CK: ${{ secrets.CK }}
-          CS: ${{ secrets.CS }}
-          AK: ${{ secrets.AK }}
-          AS: ${{ secrets.AS }}
       - name: commit
-        env:
-          REPO: https://kobakazu0429:${{github.token}}@github.com/kobakazu0429/kure-kosen-library-new-books.git
         run: |
-          git config --global user.email "someone@sample.com"
-          git config --global user.name "github workflow"
-          git remote set-url origin ${REPO}
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
           git add .
-          git diff --cached --quiet HEAD || git commit -m "save" && git status && git push origin HEAD
+          git diff --cached --quiet HEAD || git commit -m "save" && git push

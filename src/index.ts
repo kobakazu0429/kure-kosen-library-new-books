@@ -1,4 +1,3 @@
-import "dotenv/config";
 import groupBy from "just-group-by";
 
 import { LogRotate } from "./logRotate";

@@ -1,6 +1,9 @@
-name: Manual
+name: Tweet
 
-on: [workflow_dispatch]
+on:
+  schedule:
+    #  12:00(1st day) in JST
+    - cron: "0 3 1 * *"
 
 jobs:
   bot:
@@ -11,11 +14,16 @@ jobs:
       - name: Setup NodeJs
         uses: actions/setup-node@v3
         with:
-          node-version: 16
+          node-version: 18
           cache: yarn
       - run: yarn install
-      - name: yarn start
-        run: yarn start
+      - name: tweet
+        run: yarn tweet
+        env:
+          API_KEY: ${{ secrets.API_KEY }}
+          API_KEY_SECRET: ${{ secrets.API_KEY_SECRET }}
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          ACCESS_SECRET: ${{ secrets.ACCESS_SECRET }}
       - name: commit
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
