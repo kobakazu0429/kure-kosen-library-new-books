@@ -1,25 +1,26 @@
-import * as Twitter from "twitter";
+import {
+  TwitterApi,
+  EUploadMimeType,
+  type SendTweetV1Params,
+} from "twitter-api-v2";
 import { Book } from "./opac";
 
-const client = new Twitter({
-  consumer_key: process.env.CK || "",
-  consumer_secret: process.env.CS || "",
-  access_token_key: process.env.AK || "",
-  access_token_secret: process.env.AS || "",
+const twitterClient = new TwitterApi({
+  appKey: process.env.API_KEY ?? "",
+  appSecret: process.env.API_KEY_SECRET ?? "",
+  accessToken: process.env.ACCESS_TOKEN ?? "",
+  accessSecret: process.env.ACCESS_SECRET ?? "",
 });
 
-function postTwitter(body: string) {
-  return new Promise((resolve: (t: Twitter.ResponseData) => void, reject) => {
-    client.post(
-      "statuses/update",
-      { status: body },
-      (error, tweet, _response) => {
-        if (error) reject(error);
-        resolve(tweet);
-      }
-    );
-  });
-}
+const postTwitter = async (
+  body: string,
+  mediaIds?: SendTweetV1Params["media_ids"]
+) => {
+  const payload: Partial<SendTweetV1Params> = {};
+  if (mediaIds) payload["media_ids"] = mediaIds;
+
+  return twitterClient.v1.tweet(body, payload);
+};
 
 export async function feed({ date, title, url }: Book) {
   try {
@@ -35,3 +36,10 @@ export async function feed({ date, title, url }: Book) {
     console.error(error);
   }
 }
+
+export const postWithMedia = async (body: string, media: Buffer) => {
+  const id = await twitterClient.v1.uploadMedia(media, {
+    mimeType: EUploadMimeType.Png,
+  });
+  return postTwitter(body, id);
+};
