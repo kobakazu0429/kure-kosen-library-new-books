@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      html,
+      body {
+        margin: 0;
+        padding: 20px 0;
+        background-color: #fffcf4;
+        display: flex;
+        flex-direction: column;
+        font-family: "Noto Sans JP", sans-serif;
+      }
+      h1 {
+        text-align: center;
+        margin: 40px;
+        margin-top: 0;
+      }
+      .books {
+        display: flex;
+        flex-wrap: wrap;
+        width: 100%;
+        gap: 40px;
+        margin: 0 auto;
+      }
+      .book {
+        display: flex;
+        width: 600px;
+        height: 300px;
+        border-radius: 20px;
+        color: #232323;
+        background: #fff8e8;
+        overflow: hidden;
+      }
+      .book:nth-child(4n + 1) {
+        margin-left: 20px;
+      }
+      .book:nth-child(4n) {
+        margin-right: 20px;
+      }
+      .cover {
+        width: auto;
+        height: 100%;
+      }
+      .cover img {
+        width: auto;
+        height: calc(100% - 10px * 2);
+        margin: 10px;
+        min-width: 190px;
+      }
+      .img-mock {
+        width: 190px;
+        height: calc(100% - 10px * 2);
+        margin: 10px;
+        background-color: rgb(244, 244, 244);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      h2 {
+        margin: 0;
+      }
+      .detail {
+        padding: 10px;
+        width: 100%;
+      }
+      .description {
+        display: -webkit-box;
+        word-break: break-all;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 5;
+        overflow: hidden;
+      }
+      small {
+        text-align: right;
+        margin-right: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>今週の新着本はこちら！</h1>
+    <small>
+      書誌情報と書影はopenBDプロジェクト(https://openbd.jp/)を利用しています。
+    </small>
+    <script>
+      const createBook = ({ cover, title, isbn, author, description }) => {
+        const book = document.createElement("div");
+        book.classList.add("book");
+        book.innerHTML = `
+          <div class="cover">
+            ${
+              cover
+                ? `<img src="${cover}" alt="" />`
+                : `<div class="img-mock">画像なし</div>`
+            }
+          </div>
+          <div class="detail">
+            <h2 class="title">${title}</h2>
+            <p class="isbn">ISBN: ${isbn}</p>
+            <p class="author">${author}</p>
+            <p class="description">${description}</p>
+          </div>`;
+        return book;
+      };
+
+      const onixTextTypePriority = ["02", "03", "23"];
+
+      const extract = (book) => {
+        const result = {
+          isbn: "",
+          title: "",
+          author: "",
+          cover: "",
+          description: "",
+        };
+        if (book.summary?.isbn) result["isbn"] = book.summary?.isbn;
+        if (book.summary?.author) result["author"] = book.summary?.author;
+        if (book.summary?.cover) result["cover"] = book.summary?.cover;
+        if (book.summary?.title) result["title"] = book.summary?.title;
+
+        if (book.onix?.CollateralDetail?.TextContent) {
+          const textContents = book.onix?.CollateralDetail?.TextContent.filter(
+            ({ TextType }) => onixTextTypePriority.includes(String(TextType))
+          ).sort(
+            (a, b) =>
+              onixTextTypePriority.findIndex((v) => v === a.TextType) -
+              onixTextTypePriority.findIndex((v) => v === b.TextType)
+          );
+          if (textContents.length > 0) {
+            result["description"] = textContents[0].Text ?? "";
+          }
+        }
+
+        return result;
+      };
+
+      const openBD = async (isbns) => {
+        const jsons = await fetch(
+          `https://api.openbd.jp/v1/get?isbn=${isbns.join(",")}`
+        ).then((res) => res.json());
+        console.log(jsons);
+        // openBDにない書籍は無視
+        const result = jsons.filter(Boolean).map((book) => extract(book));
+        return result;
+      };
+
+      const fragment = document.createDocumentFragment();
+      const books = document.createElement("div");
+      books.classList.add("books");
+
+      const params = new URLSearchParams(location.search);
+      const isbns = params.get("isbns").split(",");
+      openBD(isbns).then((data) => {
+        data.forEach((book) => books.appendChild(createBook(book)));
+      });
+
+      fragment.appendChild(books);
+      document.querySelector("h1").after(fragment);
+    </script>
+  </body>
+</html>
