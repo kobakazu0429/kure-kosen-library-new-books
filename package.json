@@ -13,7 +13,10 @@
   },
   "dependencies": {
     "diff-arrays-of-objects": "^1.1.7",
+    "just-group-by": "^2.1.1",
+    "just-unique": "^4.1.1",
     "playwright": "^1.24.2",
+    "promise-all-properties": "^3.0.6",
     "twitter-api-v2": "^1.12.3"
   },
   "devDependencies": {

@@ -1,4 +1,5 @@
 import * as playwright from "playwright";
+import promiseAllProperties from "promise-all-properties";
 
 const BASE_URL = "https://libopac3-c.nagaokaut.ac.jp";
 
@@ -6,6 +7,7 @@ export interface Book {
   date: string;
   url: string;
   title: string;
+  isbn: string;
 }
 
 export class Opac {
@@ -34,7 +36,7 @@ export class Opac {
     return isbn;
   }
 
-  public async getNewBooks() {
+  public async getNewBooks(): Promise<Book[]> {
     await this.gotoNewBooksPage();
     await this.page.waitForSelector("#example", { state: "attached" });
 
@@ -44,27 +46,26 @@ export class Opac {
       process.exit();
     }
 
-    const summarys = trs.slice(1).map(async (tr) => {
-      return tr.evaluate((node) => {
-        const [date, body] = node.children;
-        const [a] = body.children;
-
-        const summary: Book = {
-          date: date.textContent?.trim() ?? "",
-          url: a.attributes[0].textContent ?? "",
-          title: a.innerHTML,
-        };
-        return summary;
-      });
-    });
-
-    return (await Promise.all(summarys)).map(
-      (v) =>
-        ({
-          ...v,
-          url: `${BASE_URL}${v.url}`,
-        } as Book)
+    const newBookLinks = await Promise.all(
+      trs.slice(1).map(async (tr) => {
+        const a = await tr.$("a");
+        const date = await tr.$("td");
+        return promiseAllProperties({
+          title: (await a?.textContent()) ?? "",
+          date: (await date?.textContent())?.trim() ?? "",
+          url: BASE_URL + (await a?.getAttribute("href")),
+        });
+      })
     );
+
+    const newBooks: Book[] = [];
+
+    for await (const newBook of newBookLinks) {
+      const isbn = await this.getIsbn(newBook.url);
+      newBooks.push({ ...newBook, isbn });
+    }
+
+    return newBooks;
   }
 
   private async gotoNewBooksPage() {

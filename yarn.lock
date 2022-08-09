@@ -1048,6 +1048,16 @@ json5@^2.2.1:
   resolved "https://registry.yarnpkg.com/json5/-/json5-2.2.1.tgz#655d50ed1e6f95ad1a3caababd2b0efda10b395c"
   integrity sha512-1hqLFMSrGHRHxav9q9gNjJ5EXznIxGVO09xQRrwplcS8qs28pZ8s8hupZAmqDwZUmVZ2Qb2jnyPOWcDH8m8dlA==
 
+just-group-by@^2.1.1:
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/just-group-by/-/just-group-by-2.1.1.tgz#b1b79925e3bca7cbf44acc24aa175aa5e954ab09"
+  integrity sha512-sygLOp/lxie+ruiL3cICjylWxXAR5RBErz2Laj04yo+dFqCRbPzDB8LLWn6aCx3HpONpwQ9sVp3EA0abPA8p2A==
+
+just-unique@^4.1.1:
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/just-unique/-/just-unique-4.1.1.tgz#de2d5f8ece66c5aeb98f9fdd33595ad31db4469b"
+  integrity sha512-iLt/RPnrazs4D4IVaO1Hac2W/WH9SiCT3CuhX9hip0xWVnUe+28Lyse4w/OxjSwdZ0CzduimWPMZH/KwxnCAEw==
+
 levn@^0.4.1:
   version "0.4.1"
   resolved "https://registry.yarnpkg.com/levn/-/levn-0.4.1.tgz#ae4562c007473b932a6200d403268dd2fffc6ade"
@@ -1261,6 +1271,11 @@ prettier@2.6.2:
   version "2.6.2"
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.6.2.tgz#e26d71a18a74c3d0f0597f55f01fb6c06c206032"
   integrity sha512-PkUpF+qoXTqhOeWL9fu7As8LXsIUZ1WYaJiY/a7McAQzxjk82OF0tibkFXVCDImZtWxbvojFjerkiLb0/q8mew==
+
+promise-all-properties@^3.0.6:
+  version "3.0.6"
+  resolved "https://registry.yarnpkg.com/promise-all-properties/-/promise-all-properties-3.0.6.tgz#9a6dc598f2f8896c40c301d1170bd6d21fe581e9"
+  integrity sha512-A0pNGlCCtDdSePRl0ZDRBWxAETadVkv9ZxMd1ije+dkKYOV5Ji8NcjqBIzmiDYIK8ZWk5aZoNto6NhnGMhJpxQ==
 
 punycode@^2.1.0:
   version "2.1.1"
