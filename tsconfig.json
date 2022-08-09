@@ -1,12 +1,12 @@
 {
   "compilerOptions": {
-    "target": "ESNEXT",
+    "target": "ESNext",
     "module": "commonjs",
-  },
-  "strict": true,
-  "strictNullChecks": true,
-  "noUnusedLocals": true,
-  "noUnusedParameters": true,
-  "moduleResolution": "node",
-  "esModuleInterop": true
+    "strict": true,
+    "strictNullChecks": true,
+    "noImplicitAny": false,
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true
+  }
 }
