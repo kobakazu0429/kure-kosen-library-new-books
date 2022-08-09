@@ -1,3 +1,4 @@
+import "dotenv/config";
 import { detectAddedObejct } from "./diff";
 import { LogRotate } from "./logRotate";
 import { Opac, Book } from "./opac";
