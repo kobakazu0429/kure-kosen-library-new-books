@@ -15,26 +15,15 @@ async function main() {
   const books = await opac.getNewBooks();
   await opac.close();
 
-  const thisMonth = JSON.parse(await LogRotate.read(filename));
+  const thisMonth = await LogRotate.read(filename);
   const diff = detectAddedObejct<Book>(thisMonth, books, "url");
 
   const { added, same, updated } = diff;
   console.log(added);
 
-  await LogRotate.write(
-    filename,
-    JSON.stringify(
-      [...same, ...updated, ...added].sort((a, b) => {
-        if (a.date < b.date) return -1;
-        if (a.date > b.date) return 1;
-        return 0;
-      }),
-      null,
-      2
-    )
-  );
+  await LogRotate.write(filename, [...same, ...updated, ...added]);
 
-  added.forEach(async (book) => {
+  added.forEach(async (book: any) => {
     await feed(book);
   });
 }
