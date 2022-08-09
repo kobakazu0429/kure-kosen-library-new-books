@@ -19,12 +19,12 @@
         background-color: #fffcf4;
         display: flex;
         flex-direction: column;
+        row-gap: 20px;
         font-family: "Noto Sans JP", sans-serif;
       }
       h1 {
         text-align: center;
-        margin: 40px;
-        margin-top: 0;
+        margin: 0;
       }
       .books {
         display: flex;
@@ -88,7 +88,9 @@
     </style>
   </head>
   <body>
-    <h1>今週の新着本はこちら！</h1>
+    <h1>
+      <span id="year"></span>年<span id="month"></span>月の新着本はこちら！
+    </h1>
     <small>
       書誌情報と書影はopenBDプロジェクト(https://openbd.jp/)を利用しています。
     </small>
@@ -159,6 +161,8 @@
       books.classList.add("books");
 
       const params = new URLSearchParams(location.search);
+      document.getElementById("year").innerText = params.get("year");
+      document.getElementById("month").innerText = params.get("month");
       const isbns = params.get("isbns").split(",");
       openBD(isbns).then((data) => {
         data.forEach((book) => books.appendChild(createBook(book)));
