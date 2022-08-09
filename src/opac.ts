@@ -9,8 +9,8 @@ export interface Book {
 }
 
 export class Opac {
-  public page: playwright.Page;
-  public browser: playwright.Browser;
+  public page!: playwright.Page;
+  public browser!: playwright.Browser;
 
   public async init() {
     this.browser = await playwright["chromium"].launch({ headless: true });
@@ -43,8 +43,8 @@ export class Opac {
         const [a] = body.children;
 
         const summary: Book = {
-          date: date.textContent.trim(),
-          url: a.attributes[0].textContent,
+          date: date.textContent?.trim() ?? "",
+          url: a.attributes[0].textContent ?? "",
           title: a.innerHTML,
         };
         return summary;
