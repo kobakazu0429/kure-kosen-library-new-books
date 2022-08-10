@@ -94,7 +94,9 @@
     <small>
       書誌情報と書影はopenBDプロジェクト(https://openbd.jp/)を利用しています。
     </small>
-    <script>
+    <script type="module">
+      import isbnUtils from "https://cdn.skypack.dev/isbn-utils";
+
       const createBook = ({ cover, title, isbn, author, description }) => {
         const book = document.createElement("div");
         book.classList.add("book");
@@ -108,7 +110,9 @@
           </div>
           <div class="detail">
             <h2 class="title">${title}</h2>
-            <p class="isbn">ISBN: ${isbn}</p>
+            <p class="isbn">ISBN: ${isbnUtils
+              .parse(String(isbn))
+              .asIsbn13(true)}</p>
             <p class="author">${author}</p>
             <p class="description">${description}</p>
           </div>`;
