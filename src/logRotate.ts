@@ -23,6 +23,12 @@ export class LogRotate {
   static async write(filename: string, data: Log[]): Promise<void> {
     const d = JSON.stringify(
       data.sort((a, b) => {
+        if (a.date === b.date) {
+          if (a.url < b.url) return -1;
+          if (a.url > b.url) return 1;
+          return 0;
+        }
+
         if (a.date < b.date) return -1;
         if (a.date > b.date) return 1;
         return 0;
