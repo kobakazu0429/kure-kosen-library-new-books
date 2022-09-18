@@ -74,7 +74,7 @@ const main = async () => {
     process.exit();
   }
 
-  const body = `${year}年${month}月の新着本はこちらです！`;
+  const body = `${year}年${month}月に新しく借りられるようになった本はこちらです！`;
   const media = await readFile(filePath);
   await postWithMedia(body, media);
 };
